@@ -1,0 +1,30 @@
+h1, ol, dl  {
+    color:rgb(255, 255, 255) ; font-size : 20px;
+
+}
+p{color:rgb(255, 255, 255); font-size: 40px;
+
+}
+body{
+background-color: rgb(0, 0, 0);
+
+
+}
+h1{
+text-align: center;
+color: azure ; font-size: 60px; 
+
+}
+a{text-decoration: none;}
+ img{
+    display: block;
+    margin: auto;}
+h1{border: double; height: 70px ;
+border-width: 7PX;
+
+}
+dt{ 
+    border: 3px solid;
+    border-radius: 20px ; width: 150px;
+
+}
